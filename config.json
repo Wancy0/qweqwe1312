@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Wancy ❤️ wançy",
+        "GUILD_ID": "796884754552717354",
+        "VOICE_CHANNEL": "796884754968215609",
+        "MIN_STAFF_ROLE": "796884754728615984"
+    },
+    "FILES": {
+        "WELCOME": "https://cdn.glitch.com/52c6fcaf-5255-4a76-a814-3395bd299103%2FSes_001.mp3?v=1610278509980",
+        "STAFF": "https://cdn.glitch.com/52c6fcaf-5255-4a76-a814-3395bd299103%2FSes_001.mp3?v=1610278509980"
+    },
+    "TOKEN": "Nzk3ODYyMTQ4NzYzMDI1NDE5.X_spBw.nunecA8nhO8K5JQmGLNA0I9EEcI"
+}
